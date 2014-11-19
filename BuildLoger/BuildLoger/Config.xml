@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Config>
+  <settings>
+    <add key="IsConsoleLog" value="True"></add>
+    <add key="SMTPServer" value="smtp.mandrillapp.com" />
+    <add key="SMTPServerUserName" value="beth.dierks@clysar.com" />
+    <add key="SMTPServerPassword" value="lcINDt4mJNLKXNQgWx332w" />
+    <add key="SMTPServerPort" value="587" />
+  </settings>
+  <mail>
+    <recipient>
+      <add name="Pankaj" email="pankajd@mindfiresolutions.com"/>
+      <add name="Pankaj" email="pankaj.dey198320@gmail.com"/>
+    </recipient>
+  </mail>
+  <build>
+    <environment>
+      <add key="SERVER" value=" LocalQA" />
+      <add key="PROJ" value=" Clysar Web" />
+      <add key="URL" value="http://localhost/ClysarQa" />
+    </environment>
+  </build>
+</Config>

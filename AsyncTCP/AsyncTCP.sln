@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 2013
+VisualStudioVersion = 12.0.21005.1
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTCP", "AsyncTCP.csproj", "{02BC2A31-4535-4A66-BC2E-AE4074AF3BB8}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AsyncTcpClient", "..\AsyncTcpClient\AsyncTcpClient.csproj", "{8341A932-E2B8-4F9D-86BF-309FEB339F48}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{02BC2A31-4535-4A66-BC2E-AE4074AF3BB8}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{02BC2A31-4535-4A66-BC2E-AE4074AF3BB8}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{02BC2A31-4535-4A66-BC2E-AE4074AF3BB8}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{02BC2A31-4535-4A66-BC2E-AE4074AF3BB8}.Release|Any CPU.Build.0 = Release|Any CPU
+		{8341A932-E2B8-4F9D-86BF-309FEB339F48}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8341A932-E2B8-4F9D-86BF-309FEB339F48}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8341A932-E2B8-4F9D-86BF-309FEB339F48}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8341A932-E2B8-4F9D-86BF-309FEB339F48}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

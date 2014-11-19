@@ -5,6 +5,13 @@
 *.suo
 *.user
 *.sln.docstates
+AsyncTCP/bin/*
+AsyncTCP/obj/Debug/*
+AsyncTcpClient/bin/*
+AsyncTcpClient/obj/*
+*/bin/*
+BuildLoger/BuildLoger/bin/*
+BuildLoger/BuildLoger/obj/*
 
 # Build results
 [Dd]ebug/
